@@ -1,0 +1,1 @@
+pid=$(pidof virtuoso-t);
