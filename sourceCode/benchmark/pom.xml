@@ -12,13 +12,10 @@
     <groupId>dev.inisight</groupId>
     <packaging>pom</packaging>
     <modules>
-        <module>benchmark.blazegraph</module>
         <module>benchmark.experiment</module>
         <module>benchmark.rdf4led</module>
         <module>benchmark.utility</module>
         <module>benchmark.jena</module>
-        <module>benchmark.flash</module>
-        <module>benchmark.berkeleydb</module>
     </modules>
     <artifactId>benchmark</artifactId>
 
