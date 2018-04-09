@@ -24,10 +24,6 @@ public class RDF4LedInput extends InputExperiment<GraphStore2> {
 
   public static void main(String[] args) {
 
-    //int maxMemory = Integer.parseInt(args[args.length-1]);
-
-    Config.setMaxMemory(80);
-
     Experiment experiment = new RDF4LedInput(args);
 
     experiment.execute();
