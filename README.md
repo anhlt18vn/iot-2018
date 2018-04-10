@@ -9,7 +9,8 @@
   - Location for the queries corresponding to the dataset should be in: <home_dir>/iswc2018/queries/<data_set_name>/
   - Location for the experiment binary should be in: <home_dir>/iswc2018/rdfengine/
   - Location for the source code of the experiment is in: <home_dir>/iswc2018/sourcCode/
-  - Virtuoso should be compiled and placed at: <home_dir>/vos/
+  - Virtuoso should be compiled and placed at: <home_dir>/vos/  
+  Note: we use vos 6 for the evaluation as vos 7 does not support 32bit os.
 ## III. Run the experiments:
   - Virtuoso:
     - Input: sh exe_vos_input.sh <root_password> <data_set_name> <device_name>
