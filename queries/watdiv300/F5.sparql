@@ -1,6 +1,6 @@
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer481> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2353> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -9,7 +9,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1328> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -18,7 +18,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1052> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1850> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -27,7 +27,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1863> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2378> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -36,7 +36,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1727> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -45,7 +45,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer3498> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer686> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -54,7 +54,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer947> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2064> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -63,7 +63,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer467> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -72,7 +72,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer3498> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -81,7 +81,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer237> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1680> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -90,7 +90,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1728> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1455> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -99,7 +99,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer947> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1353> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -108,7 +108,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer237> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1680> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -117,7 +117,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1328> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -126,7 +126,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -135,7 +135,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer947> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer467> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -144,7 +144,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer3498> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -153,7 +153,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer3498> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -162,7 +162,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer237> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1680> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -171,7 +171,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer540> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -180,7 +180,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1052> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1455> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -189,7 +189,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2877> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1353> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -198,7 +198,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer237> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1476> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -207,7 +207,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1052> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer295> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -216,7 +216,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2877> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1455> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -225,7 +225,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer455> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -234,7 +234,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1927> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1850> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -243,7 +243,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer481> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -252,7 +252,7 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer947> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1488> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
@@ -261,7 +261,637 @@ SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 
 SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
 	?v0 <http://purl.org/goodrelations/includes> ?v1 .
-	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer237> <http://purl.org/goodrelations/offers> ?v0 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2064> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1488> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer28> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1353> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1455> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer540> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1850> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer467> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1476> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer540> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1387> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer295> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1926> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1387> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer467> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1328> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2091> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1680> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1488> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer670> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1987> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer66> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer295> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer457> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1926> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1006> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer670> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1383> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer886> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1006> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1488> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1850> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1455> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2353> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1006> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer432> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1287> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2378> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1987> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer275> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2064> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1476> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer686> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer66> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2353> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer686> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2091> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1006> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer886> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer886> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1926> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer295> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer2064> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1746> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer457> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1594> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer28> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer686> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1594> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer1387> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer432> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer540> <http://purl.org/goodrelations/offers> ?v0 .
+	?v0 <http://purl.org/goodrelations/price> ?v3 .
+	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
+	?v1 <http://ogp.me/ns#title> ?v5 .
+	?v1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?v6 .
+}
+
+SELECT ?v0 ?v1 ?v3 ?v4 ?v5 ?v6 WHERE {
+	?v0 <http://purl.org/goodrelations/includes> ?v1 .
+	<http://db.uwaterloo.ca/~galuc/wsdbm/Retailer7> <http://purl.org/goodrelations/offers> ?v0 .
 	?v0 <http://purl.org/goodrelations/price> ?v3 .
 	?v0 <http://purl.org/goodrelations/validThrough> ?v4 .
 	?v1 <http://ogp.me/ns#title> ?v5 .
