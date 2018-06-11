@@ -1,4 +1,4 @@
-# Guidelines for running evaluation supporting iswc2018 submission.
+# Guidelines for running evaluation supporting iot2018 submission.
 ## I. Guidelines for install os on devices:
   - Galileo Gen II: https://software.intel.com/en-us/get-started-galileo-windows
   - Raspberry Pi Zero: https://cdn-learn.adafruit.com/downloads/pdf/raspberry-pi-zero-creation.pdf
